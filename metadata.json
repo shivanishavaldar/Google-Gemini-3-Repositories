@@ -1,0 +1,5 @@
+{
+  "name": "BioRxiv Publications Visual",
+  "description": "A visual calendar interface for exploring BioRxiv preprints. View publications by date, read details, and generate AI summaries using Gemini.",
+  "requestFramePermissions": []
+}
